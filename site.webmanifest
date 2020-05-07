@@ -1,0 +1,49 @@
+{
+    "name": "Butik Moda Griyabusana",
+    "short_name": "Butik Moda",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-VsgQlgY2w2A/XqmOAK95HoI/AAAAAAAAACE/FTihiw_RbbIO0CJxXqxO3MXvOYGx03BkQCPcBGAYYCw/s72/logo-moda-mini.jpg",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-VsgQlgY2w2A/XqmOAK95HoI/AAAAAAAAACE/FTihiw_RbbIO0CJxXqxO3MXvOYGx03BkQCPcBGAYYCw/s96/logo-moda-mini.jpg",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-VsgQlgY2w2A/XqmOAK95HoI/AAAAAAAAACE/FTihiw_RbbIO0CJxXqxO3MXvOYGx03BkQCPcBGAYYCw/s128/logo-moda-mini.jpg",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-VsgQlgY2w2A/XqmOAK95HoI/AAAAAAAAACE/FTihiw_RbbIO0CJxXqxO3MXvOYGx03BkQCPcBGAYYCw/s144/logo-moda-mini.jpg",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-VsgQlgY2w2A/XqmOAK95HoI/AAAAAAAAACE/FTihiw_RbbIO0CJxXqxO3MXvOYGx03BkQCPcBGAYYCw/s152/logo-moda-mini.jpg",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-VsgQlgY2w2A/XqmOAK95HoI/AAAAAAAAACE/FTihiw_RbbIO0CJxXqxO3MXvOYGx03BkQCPcBGAYYCw/s384/logo-moda-mini.jpg",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-VsgQlgY2w2A/XqmOAK95HoI/AAAAAAAAACE/FTihiw_RbbIO0CJxXqxO3MXvOYGx03BkQCPcBGAYYCw/s512/logo-moda-mini.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-VsgQlgY2w2A/XqmOAK95HoI/AAAAAAAAACE/FTihiw_RbbIO0CJxXqxO3MXvOYGx03BkQCPcBGAYYCw/s192/logo-moda-mini.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ff007f",
+    "background_color": "#ff007f",
+    "display": "standalone"
+}
